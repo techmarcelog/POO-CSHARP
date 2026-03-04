@@ -15,6 +15,10 @@ Meus estudos com comentários e exercícios realizados para aperfeiçoamento em 
 -------------------------------
 
 # Exercícios Realizados:
-  ..
-
-  
+- Sistema de conta bancária
+- Sistema de estacionamento
+- Sistema de compra de produto
+- Aluno aprovado ou reprovado
+- Calculadora
+- Conversor de moedas com classe abstrata
+- Desconto de salário de colaborador utilizando Interface
